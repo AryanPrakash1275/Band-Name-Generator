@@ -1,1 +1,1 @@
-#main
+print(question1 + question2)
