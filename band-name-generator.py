@@ -1,2 +1,2 @@
 #quetion 1
-print('Which city did you grew up?\n' + input())
+question1 = print('Which city did you grew up?\n' + input())
